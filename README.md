@@ -1,11 +1,12 @@
 ## <div align="center" width="50">
 
 
-<h1><em>Olá, eu sou o Talita! </em><img src=https://slackmojis.com/emojis/7377-hello_fox/download alt="" width=35 /></h1>
+<h1><em>Olá, eu sou o Talita! 
+</em><img src=https://slackmojis.com/emojis/7377-hello_fox/download alt="" width=35 /></h1>
 <br><br><br>
 
 
-<img src=https://i.gifer.com/VBgA.gif width="1000" height="300"/>
+<img src=https://i.gifer.com/VBgA.gif width="1000" height="500"/>
 
 </div>
 
